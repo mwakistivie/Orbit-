@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 70" role="img" aria-labelledby="title">
+<title id="title">Maeve Technologies</title>
+<rect width="64" height="64" x="3" y="3" rx="16" fill="#111827"/>
+<path d="M17 45V23h6l9 12 9-12h6v22h-7V34l-8 10-8-10v11z" fill="#fff"/>
+<circle cx="54" cy="13" r="5" fill="#f59e0b"/>
+<text x="79" y="32" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="1.2" fill="#111827">MAEVE</text>
+<text x="80" y="49" font-family="Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="2.5" fill="#687080">TECHNOLOGIES</text>
+</svg>
