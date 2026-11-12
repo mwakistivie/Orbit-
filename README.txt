@@ -8,9 +8,8 @@ FILES
 - assets/maeve-logo.svg  Footer credit mark
 
 RUN
-1. Extract the ZIP.
-2. Open index.html in a modern browser.
-3. For local development, you may use VS Code Live Server.
+1. Open index.html in a modern browser.
+2. For local development, you may use VS Code Live Server.
 
 FEATURES
 - Responsive storefront and mobile navigation
@@ -31,12 +30,4 @@ IMPORTANT IMPLEMENTATION NOTES
   payment callbacks (including idempotency and reconciliation).
 - Do not store payment credentials or trust totals calculated only in the browser.
 
-MAEVE TECHNOLOGIES BRAND MARK
-The supplied website could not be accessed during generation, so the included
-SVG is a clean text-based Maeve Technologies credit mark, not a verified copy
-of the website's official logo artwork. Replace assets/maeve-logo.svg with the
-official logo asset if you provide it. The footer links to:
-https://maeve-technologies.vercel.app/
 
-Copyright footer credit:
-"Copyright belongs to Maeve Technologies"
